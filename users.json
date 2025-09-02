@@ -1,12 +1,29 @@
-[
-  {
-    "username": "user",
-    "password": "user123",
-    "role": "admin"
-  },
-  {
-    "username": "guest",
-    "password": "guest123",
-    "role": "user"
-  }
-]
+{
+  "server": "on",
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "user12e",
+      "rank": "owner"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "police128",
+      "rank": "admin"
+    },
+    {
+      "id": "3",
+      "username": "seller",
+      "password": "tesrepy6",
+      "rank": "resseller"
+    },
+    {
+      "id": "4",
+      "username": "kamueep",
+      "password": "peleejie",
+      "rank": "user"
+    }
+  ]
+}
